@@ -1,5 +1,7 @@
 #  **Spring Factory - an additional spooky moon for your modpack** 
 The Spring Factory has been long abandoned.  Coils and springs used to be manufactured here. 
+![Screenshot_9](https://github.com/vinrata/SpringFactory/blob/main/gif2.gif?raw=true)
+
 ![Screenshot_1](https://github.com/vinrata/SpringFactory/blob/main/Screenshot1.png?raw=true)
 ![Screenshot_29](https://github.com/vinrata/SpringFactory/blob/main/Screenshot2.png?raw=true)
 ![Screenshot_229](https://github.com/vinrata/SpringFactory/blob/main/Screenshot3.png?raw=true)
