@@ -1,0 +1,17 @@
+#  **Spring Factory V1.2 - an additional spooky moon for your modpack** 
+-Coil Heads are the only enemies that spawn here.<br>
+-8 Fire Exits. Pop in and out of fire exits to avoid coil heads.<br><br>
+Changed name to "Factory X"<br>
+Added 8th fire exit.<br>
+Added more walkways.<br><br>
+*The factory has been long abandoned. From the outside it seemed like a normal factory.  Springs, coils, and other mechanical parts were manufactured here.  Big trucks would come in and out.  Delivery trucks would arrive in the daytime.  At night the big gates stayed open.  Always at night, strange packages would arrive.  This is also when the company would send out its shipments.*
+
+![Screenshot_99](https://github.com/vinrata/SpringFactory/blob/main/gif2.gif?raw=true)
+![Screenshot_7](https://github.com/vinrata/SpringFactory/blob/main/Screenshot7.png?raw=true)
+![Screenshot_9](https://github.com/vinrata/SpringFactory/blob/main/Screenshot9.png?raw=true)
+![Screenshot_6](https://github.com/vinrata/SpringFactory/blob/main/Screenshot6.png?raw=true)
+![Screenshot_1](https://github.com/vinrata/SpringFactory/blob/main/Screenshot1.png?raw=true)
+![Screenshot_3](https://github.com/vinrata/SpringFactory/blob/main/Screenshot3.png?raw=true)
+![Screenshot_4](https://github.com/vinrata/SpringFactory/blob/main/Screenshot4.png?raw=true)
+
+- The Spring Factory moon requires Lethal Expansion SDK or the Core
